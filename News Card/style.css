@@ -1,0 +1,17 @@
+html 
+{
+    font-size: 22px;
+}
+body 
+{
+    background-color: #fff;
+    color: #333;
+}
+.ll{
+    width: fit-content;
+    border: 5px solid rgb(128, 0, 0);
+    padding: 12px;
+    margin: 20px ;
+    margin-bottom: 10px;
+    float: left;;
+}
